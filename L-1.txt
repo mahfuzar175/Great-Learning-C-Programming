@@ -1,0 +1,4 @@
+1. C was first introduced by Dennis Richie
+2. C is a procedure-oriented language
+3. C is a widely used and popular programming language for developing system appplication software
+4. It can be called a mid-level programming language
