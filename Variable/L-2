@@ -1,0 +1,27 @@
+/*What is a Variable?
+Its a name given to a memory location where the value is not fixed, it can change with the course of time. Ex: int num;*/
+
+
+// Syntax
+// datatype variable_name
+
+// Assignment
+// variable_name = value
+
+
+// ==============Scope of a variable=========
+// 1. Local  =======just access through out the scope=====
+/*
+void main(){
+    int rollno = 10;
+}
+*/
+
+
+// 2. Global =======Access out side of the scope(can have multiple function)====
+/*
+int y = 50;
+void main(){
+    int x = 100;
+}
+*/
